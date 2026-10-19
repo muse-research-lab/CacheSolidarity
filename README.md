@@ -372,21 +372,6 @@ This artifact uses real user prompts from public datasets for academic research,
 
 This artifact is distributed under the Apache-2.0 license. The bundled vLLM code is also licensed under Apache-2.0 (see `vllm/LICENSE`).
 
----
-
-## 📚 Citation
-
-If you use this artifact, please cite the paper:
-
-```bibtex
-@inproceedings{pennas2026cachesolidarity,
-  title     = {CacheSolidarity: Preventing Prefix Caching Side Channels in Multi-tenant LLM Serving Systems},
-  author    = {Pennas, Panagiotis Georgios and Papaioannou, Konstantinos and Guarnieri, Marco and Doudali, Thaleia Dimitra},
-  booktitle = {Proceedings of the ACM International Middleware Conference (Middleware '26)},
-  year      = {2026},
-  doi       = {TODO}
-}
-```
 
 ---
 
