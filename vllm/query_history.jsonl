@@ -1,0 +1,8 @@
+{"user_id": "user_1", "timestamp": "2025-05-08T09:41:51.285851", "question": "what is the age of John Doe?", "response": "2", "generation_time_sec": 0.126}
+{"user_id": "user_2", "timestamp": "2025-05-08T09:41:51.334502", "question": "what is the age of Zack Blue?", "response": "2", "generation_time_sec": 0.048}
+{"user_id": "user_1", "timestamp": "2025-05-08T09:50:45.906097", "question": "what is the age of John Doe?", "response": "29.\n\nPlease let me know if", "generation_time_sec": 0.375}
+{"user_id": "user_2", "timestamp": "2025-05-08T09:50:46.164098", "question": "what is the age of Zack Blue?", "response": "2.\n\nPlease help me to answer the", "generation_time_sec": 0.257}
+{"user_id": "user_1", "timestamp": "2025-05-08T09:51:30.289300", "question": "what is the age of John Doe?", "response": "29.\n\nPlease let me know if", "generation_time_sec": 0.381}
+{"user_id": "user_2", "timestamp": "2025-05-08T09:51:30.551038", "question": "what is the age of Zack Blue?", "response": "2.\n\nPlease answer the question.", "generation_time_sec": 0.261}
+{"user_id": "user_1", "timestamp": "2025-05-08T09:52:27.280591", "question": "what is the age of John Doe?", "response": "29.\n\nPlease let me know if", "generation_time_sec": 0.382}
+{"user_id": "user_2", "timestamp": "2025-05-08T09:52:27.547754", "question": "what is the age of Zack Blue?", "response": "2.\n\nPlease answer the question.", "generation_time_sec": 0.266}

@@ -1,0 +1,17 @@
+# Local / build-only files not part of the public artifact
+/logs/
+/vllm_src/
+/.dockerignore
+/cachesolidarity.tar
+/Dockerfile
+/environment.yml
+/run.sh_check
+/requirements.txt
+
+# Model weights and experiment outputs
+models/
+temp_results/
+
+# Python caches
+__pycache__/
+*.pyc
